@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "TestJenkinsCasC-dev-controller"
+description: "CloudBees CI configuration bundle for the TestJenkinsCasC dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/testjenkinscasc/dev-controller"
+parent: "base"
