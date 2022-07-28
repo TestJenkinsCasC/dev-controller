@@ -1,0 +1,4 @@
+variables:
+- team: TestJenkinsCasC
+- admin-user: jaybackory-admin
+- manager-user: jaybackory
